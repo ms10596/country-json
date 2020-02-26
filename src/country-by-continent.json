@@ -408,7 +408,7 @@
         "continent": "Asia"
     },
     {
-        "country": "Ireland",
+        "country": "Republic of Ireland",
         "continent": "Europe"
     },
     {
@@ -908,7 +908,7 @@
         "continent": "Europe"
     },
     {
-        "country": "United States",
+        "country": "United States of America",
         "continent": "North America"
     },
     {
@@ -970,5 +970,9 @@
     {
         "country": "Zimbabwe",
         "continent": "Africa"
+    },
+    {
+        "country": "Taiwan",
+        "continent": "Asia"
     }
 ]
