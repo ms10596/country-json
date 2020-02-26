@@ -974,5 +974,9 @@
     {
         "country": "Taiwan",
         "continent": "Asia"
+    },
+    {
+        "country": "Macau",
+        "continent": "Asia"
     }
 ]
